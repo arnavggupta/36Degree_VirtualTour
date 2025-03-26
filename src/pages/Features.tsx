@@ -1,7 +1,6 @@
-
 import Layout from "@/components/Layout";
 import NextButton from "@/components/NextButton";
-import { View360, Map, Building, PanelTop, RotateCw, Eye } from "lucide-react";
+import { Eye, Map, Building, PanelTop, RotateCw } from "lucide-react";
 
 const Features = () => {
   return (
