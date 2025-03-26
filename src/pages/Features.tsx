@@ -1,7 +1,7 @@
 
 import Layout from "@/components/Layout";
 import NextButton from "@/components/NextButton";
-import { VirtualTour, Map, Building, PanelTop, RotateCw, Eye } from "lucide-react";
+import { View360, Map, Building, PanelTop, RotateCw, Eye } from "lucide-react";
 
 const Features = () => {
   return (
@@ -62,7 +62,7 @@ const FeatureCard = ({ icon, title, description, isReversed = false }: FeatureCa
 
 const features = [
   {
-    icon: <VirtualTour className="h-12 w-12 text-estate-600" />,
+    icon: <Eye className="h-12 w-12 text-estate-600" />,
     title: "Immersive 360° Views",
     description: "Experience properties in stunning 360-degree detail, allowing you to look around and explore as if you were physically present.",
   },
