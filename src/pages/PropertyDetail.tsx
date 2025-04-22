@@ -29,12 +29,12 @@ const properties: Property[] = [
     floors: [
       {
         id: "ground-floor",
-        name: "Ground Floor",
+        name: "7th Floor",
         viewUrl: "https://html-classic.itch.zone/html/13193499/buid_3/index.html"
       },
       {
         id: "third-floor",
-        name: "3rd Floor",
+        name: "Ground Floor",
         viewUrl: "https://html-classic.itch.zone/html/13193486/Build/index.html"
       }
     ]
@@ -48,7 +48,7 @@ const properties: Property[] = [
       {
         id: "lobby",
         name: "Lobby",
-        viewUrl: ""
+        viewUrl: "https://html-classic.itch.zone/html/13454152/index.html"
       }
     ]
   }
